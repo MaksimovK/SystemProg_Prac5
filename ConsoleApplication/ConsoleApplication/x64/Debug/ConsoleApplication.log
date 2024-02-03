@@ -1,0 +1,6 @@
+﻿  ConsoleApplication.cpp
+  Distance.cpp
+C:\Что-то по учёбе\Системное программирование\Пр5\ConsoleApplication\ConsoleApplication\Distance.cpp(4,16): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+C:\Что-то по учёбе\Системное программирование\Пр5\ConsoleApplication\ConsoleApplication\Distance.cpp(8,16): warning C4244: return: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  ConsoleApplication.vcxproj -> C:\Что-то по учёбе\Системное программирование\Пр5\ConsoleApplication\x64\Debug\ConsoleApplication.exe
